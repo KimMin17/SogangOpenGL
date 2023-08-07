@@ -1,0 +1,5 @@
+﻿  CG_HW3.cpp
+D:\Files\SogangUniv\3_1\기초컴퓨터그래픽스\과제\과제3\HW3_20171608\HW3_20171608\CG_HW3.cpp(187,43): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+  LoadShaders.cpp
+  코드를 생성하고 있습니다...
+  HW3_20171608.vcxproj -> D:\Files\SogangUniv\3_1\기초컴퓨터그래픽스\과제\과제3\HW3_20171608\Debug\HW3_20171608.exe
